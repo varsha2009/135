@@ -1,0 +1,23 @@
+.header{
+    background-color: rgba(251, 209, 222, 0.39);
+    padding: 25px;
+    margin-top: 0px;
+}
+.footer{
+    width: 100%;
+    background-color: rgba(251, 209, 222, 0.39);
+    position: fixed;
+    bottom: 0px;
+    line-height: 35px;
+    font-size: 16px;
+}
+canvas{
+    border: 5px double black;
+}
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/01/33/93/14/360_F_133931475_6Vo2QJuxZBPbYoNeRiVIJpeUbJDc3bU0.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    color: white;
+}
